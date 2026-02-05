@@ -1,2 +1,2 @@
 # Curso Javascript
-curso de javascript basico do canal Curso em video [40 horas]
+Curso de javascript basico - canal Curso em video [40 horas]
